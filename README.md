@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![](https://komarev.com/ghpvc/?username=dev-tom-0108&color=yellow)
+<!-- ![](https://komarev.com/ghpvc/?username=dev-tom-0108&color=yellow) -->
 
 
 You can contact me via eros1030109@gmail.com
