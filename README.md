@@ -1,4 +1,6 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=dev-tom-0108&color=yellow)
+
+## Hi there 👋
 
 <!--
 **dev-tom-0108/dev-tom-0108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-![](https://komarev.com/ghpvc/?username=dev-tom-0108&color=yellow)
 
 
 You can contact me via eros1030109@gmail.com
