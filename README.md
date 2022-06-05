@@ -4,10 +4,11 @@
 Hi there 👋
 </h2>
 
+You can check my past works here: <a href="https://github.com/dev-tom-0108/-MY-Projects-README-">MY PROJECTs</a>
+
+
 You can contact me via eros1030109@gmail.com
 
-
-You can check my past works here: <a href="https://github.com/dev-tom-0108/-MY-Projects-README-">MY PROJECTs</a>
 <h4 align="center">
 More than 8 years of experience with web and app development, 2+ years of blockchain part. 
 <br />
