@@ -6,8 +6,12 @@ Hi there 👋
 
 You can check my past works here: <a href="https://github.com/dev-tom-0108/-MY-Projects-README-">MY PROJECTs</a>
 
+<h3 align = "center">You can contact me via </h3>
 
-You can contact me via eros1030109@gmail.com
+<a href="https://discordapp.com/users/946819354182418492"><img align="left" src="https://raw.githubusercontent.com/dev-tom-0108/dev-tom-0108/main/images/discord.svg" alt="Oura | Discord" width="24px"/></a>
+<a href="mailto:eros1030109@gmail.com"><img align="left" src="https://raw.githubusercontent.com/dev-tom-0108/dev-tom-0108/main/images/email.svg" alt="Oura | Email" width="24px"/></a>
+<a href="https://join.skype.com/invite/OB8CWgBxi2qJ"><img align="left" src="https://raw.githubusercontent.com/dev-tom-0108/dev-tom-0108/main/images/skype.svg" alt="Oura | Skype" width="24px"/></a>
+<br/>
 
 <h4 align="center">
 More than 8 years of experience with web and app development, 2+ years of blockchain part. 
